@@ -17,7 +17,7 @@ pysftp==0.2.9
 PySocks==1.7.0
 python-dateutil==2.8.2
 pytz==2023.3
-PyYAML==6.0
+PyYAML==6.0.1
 requests
 sqlalchemy
 sqlalchemy-redshift
