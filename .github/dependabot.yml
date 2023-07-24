@@ -17,3 +17,7 @@ updates:
     directory: "/python"
     schedule: 
       interval: "weekly"
+    ignore:
+      - dependency-name: "pandas"
+        # disable update checks for versions not compatible with python 3.7
+        versions: <1.4.0
