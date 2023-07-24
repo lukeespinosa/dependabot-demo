@@ -2,7 +2,7 @@ git+https://github.com/republicwireless/luigi@release/3.2.1
 -e git+ssh://github-mozart/republicwireless/mozart.git@main#egg=mozart
 boto3==1.26.162
 certifi==2023.5.7
-charset-normalizer==3.1.0
+charset-normalizer==3.2.0
 emoji==2.6.0
 google-api-python-client
 googlemaps==4.10.0
