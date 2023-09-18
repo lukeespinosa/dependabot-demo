@@ -8,7 +8,7 @@ google-api-python-client
 googlemaps==4.10.0
 gspread
 idna==3.4
-numpy==1.21.5
+numpy==1.26.0
 oauth2client
 pandas==1.3.5
 psycopg2
