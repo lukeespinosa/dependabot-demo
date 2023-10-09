@@ -23,5 +23,5 @@ sqlalchemy
 sqlalchemy-redshift
 sshtunnel
 twilio==8.4.0
-urllib3==1.26.16
+urllib3==2.0.6
 zoho-analytics-connector==1.4.2
